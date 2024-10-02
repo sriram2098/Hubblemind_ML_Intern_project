@@ -30,7 +30,7 @@ process, from EDA and feature engineering to model development an evaluation.
 
 ### 1. **Data Collection**
    - Gather historical stock data for Amazon, including price and trading volumes.
-   - Data source: [e.g., Yahoo Finance, Alpha Vantage API, or CSV file].
+   - Data source: [Kaggle].
 
 ### 2. **Data Preprocessing**
    - Handle missing data (if any) and clean the dataset.
